@@ -1,0 +1,30 @@
+PROTOCOLO DE MANEJO DE COLECCIONES DE TEJIDOS DE ANIMALES MAMIFEROS MUERTOS
+
+1. Objetivo: Establecer los pasos para la recolección, manejo y preservación de tejidos biológicos anatómicos provenientes de mamíferos roedores.
+
+2. Introducción
+La colección biológica de tejidos de animales, principalmente roedores, contempla los tejidos blandos (músculos, grasa, vasos sanguíneos y linfáticos, nervios, fascia y cartílago) para realizar procedimientos de microscopía y biología molecular que permitan incidir en investigaciones desde campos tan diversos como biología evolutiva, ecología, conservación, epidemiología, toxicología, agricultura y bioprospección.
+
+3. Procedimiento
+
+3.1 Recolección:
+
+Determinar material a muestrear y pertinencia. (¿Se necesita ese espécimen en la colección?)
+Verificar permiso para muestrear en campo o presencia del personal autorizado como responsable en la institución o ente privado (ANLA, permiso marco de recolección)
+Preparar material para la recolección (Marcado, recolección y preservación).
+Anexar en el registro la información pertinente y etiquetado (Fecha, localidad, coordenadas, número de campo, información, taxonómica, tipo de tejido, método de conservación, colección biológica, condiciones de conservación).
+Importante: Si son tejidos, evitar el formol. Si son vivos y se toma el tejido, actúe éticamente al manipular especímenes vivos minimizando su sufrimiento durante el muestreo. Seguir el manual de Humboldt para recolección en cada caso. También, utilizar un fijador adecuado para el tipo de tejido. Se puede usar etanol, en diluciones adecuadas o formaldehído.
+Almacenar en la bolsa o empaque en la temperatura y humedad de acuerdo al tipo de tejido, por ejemplo: tejido corneal se conserva en frasco con la solución (Flavina H o Eusol-C), musculoesquelético se conserva dentro de bolsas estériles a temperatura ambiente, hueso fresco se conserva en refrigeración a una temperatura mínima de -40°C.
+
+3.2 Recepción-manejo-preservación
+
+Confirmar condiciones de recepción en la colección del material y datos de colecta.
+Almacenar en la base de datos.
+Preservar en buffer de almacenamiento (EDTA + DMSO o ETANOL 96%) lo más pronto posible.
+Refrigerar por debajo de -20 °C de acuerdo al tipo de tejido (Evitar ciclos de descongelación innecesarios).
+Manejar siempre material estéril para el análisis.
+Registrar debidamente responsable, fecha, procedimiento. Importante: Si una persona diferente al técnico maneja el tejido, debe contar con acompañamiento del personal. Adicionalmente, evitar afectar partes del espécimen que tengan valor para su identificación taxonómica.
+Revisar periódicamente los equipos de almacenamiento, registrar temperaturas, humedad relativa del entorno y percances.
+
+Referencias
+Instituto Alexander Von Humboldt. (s. f.). Recolección de tejidos biológicos para análisis genéticos. https://www.humboldt.org.co/publicaciones/recoleccion-de-tejidos-biologicos-para-analisis-geneticos
