@@ -1,0 +1,18 @@
+MANEJO DE DATOS: "Bioprospección de cepas bacterianas de la Guajira"
+Bioprospección de cepas bacterianas obtenidas a partir de suelo desnudo de la Alta Guajira, en donde coexisten las comunidades Wayuu, una comunidad indígena.
+
+Preparar la metodología y documentación requerida para la solicitud del permiso marco de recolección del ANLA. 
+Solicitar el permiso marco de recolección asegurándose de la presencia de un titular responsable en el proyecto y salida de campo desde la institución cobijada por la norma vigente del programa al que esté adscrito.
+Solicitar acceso a recursos genéticos para acceder a recursos genéticos propiedad de la nación colombiana desde sus especies bacterianas nativas.
+Determinar la metodología de recolección con una estadística que disminuya el nivel de sesgo en el análisis. (Importante: ¿La muestra escogida es suficiente?) ¿El muestreo es aleatorio o sectorizado? ¿Desde las comunidades la cantidad de muestra es viable?
+Firmar contrato de confidencialidad: solo las personas contempladas dentro del proyecto pueden acceder a los datos. Para compartir con personal ajeno debe solicitarse autorización al representante legal del proyecto u líder. 
+Generar credenciales de acceso para los equipos utilizados en el procesamiento.
+Depositar en cada paso del procesamiento los datos pre y post-tratamiento en carpetas organizadas para anexar en el artículo o repositorios de acceso público (Los datos crudos se anexarán en tablas suplementarias o archivos suplementarios comprimidos y los datos procesados de la secuenciación-anotación se depositarán en el GenBank con número de bioproyecto, biomuestra y número WSG).
+Anexar las bacterias aisladas a colecciones biológicas indexadas contempladas en el Registro Único Nacional de Colecciones Biológicas del Instituto Humboldt, por ejemplo: La colección de microorganismos de la Pontificia Universidad Javeriana (CMPUJ).
+Asegurar disponibilidad de datos y código de programación por anexo de apartados: "Code availability" y  "Data avilability".
+Presentar paralelamente informes y productos para las entidades (ANLA, MinAmbiente y Institución o instuciones vinculadas). 
+Anexar correo de autor de correspondencia (preferiblemente personal) y un número de contacto con la institución o ente.
+Indexar el producto o productos en revistas open access. 
+
+
+
