@@ -2,7 +2,8 @@ PROTOCOLO DE MANEJO DE COLECCIONES DE TEJIDOS DE ANIMALES MAMIFEROS MUERTOS
 
 1. Objetivo: Establecer los pasos para la recolección, manejo y preservación de tejidos biológicos anatómicos provenientes de mamíferos roedores.
 
-2. Introducción
+2. INTRODUCCIÓN
+
 La colección biológica de tejidos de animales, principalmente roedores, contempla los tejidos blandos (músculos, grasa, vasos sanguíneos y linfáticos, nervios, fascia y cartílago) para realizar procedimientos de microscopía y biología molecular que permitan incidir en investigaciones desde campos tan diversos como biología evolutiva, ecología, conservación, epidemiología, toxicología, agricultura y bioprospección.
 
 3. Procedimiento
