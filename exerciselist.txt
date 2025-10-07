@@ -15,7 +15,7 @@ La mayoría de los microorganismo bacterianos reportados en el instestino de mod
 2.2 Definir diseño estadísticos (paralelamente).
 2.3 Definir propuesta para presentación en comite de etica (Problema, revisión bibliográfica, protocolos de manejo, vigilancia y eutanasia de las ratas en el bioterio que se alinen con el bienestar animal).
 2.4 Definir personal involucrado en el proceso y rubros para el proyecto. 
-2.5 Definir contrato de confidencialidad para datos al iniciar y terminar el proceso investigativo).
+2.5 Definir contrato de confidencialidad para datos al iniciar y terminar el proceso investigativo.
 
 3. Crear disertación para el comite de ética.
 
@@ -29,7 +29,7 @@ La mayoría de los microorganismo bacterianos reportados en el instestino de mod
 4.1 Revisar normativa vigente (Ley 84 del 27 de diciembre de 1989 del congreso de Colombia para proteción de animales). 
 4.2 Establecer diseño de la infraestructura y materiales.
 4.3 Retomar protocolos desde la presentación y concepto en el comite de ética.
-4.4 Retomar protocolo para manejo, obtención de muestras y eutanasia (¿Estás minimizando el daño?).  
+4.4 Retomar protocolo para manejo, obtención de muestras y eutanasia (¿Se contempla la cantidad de muestras mínima para obtener resultados validos?).  
 
 5.Establecer colección.
 
@@ -49,6 +49,6 @@ La colección es para facilitar el estudio gentico y amṕliar el conocimiento e
 6.1 Establecer contrato de confidencialidad.
 6.2 Generar credenciales de acceso. 
 6.3 Asociar todo los datos actuaizados de la colección asegurando disponibilidad SIB).
-6.4 Depositar en repositorios públicos la información de caraterización de las cepas sin despreciar ningún dato microoscopico o macroscopico (NCBI, asegura accesibilidad desde los números de acceso y Zenodo, brinda un DOI para cada carga en el tiempo de procesamiento especifico, asegurando que sean encontrables, accesibles y reusables) los números de acceso para permitir el raestreo y manejo de esa muestra en ese momento de su caracterización).
+6.4 Depositar en repositorios públicos la información de caraterización de las cepas sin despreciar ningún dato microoscopico o macroscopico (NCBI, asegura accesibilidad desde los números de acceso y Zenodo, brinda un DOI para cada carga en el tiempo de procesamiento especifico, asegurando que sean encontrables, accesibles y reusables).
 6.5 Establecer un idioma idoneo para la presentación de resultados que facilite el manejo de la información (ejemplo: No se permite caracterizaciones ambiguas o de español de un nicho, se debe ser claro. Colonia traslucida y blanda. No colonia trasnparente, de aspecto blando).
 
